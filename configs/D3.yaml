@@ -1,0 +1,6 @@
+variant: D3
+classification: hierarchical
+use_u: true
+use_pi: false
+use_consistency: false
+fusion: uniform

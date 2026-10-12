@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: UR-FreezeDet
+type: software
+version: 1.0.0
+status: "Manuscript under preparation"
+date-released: 2026-10-12
+authors:
+  - family-names: "contributors"
+    given-names: "UR-FreezeDet"
+repository-code: "https://github.com/REPLACE_AFTER_PUBLICATION/UR-FreezeDet"

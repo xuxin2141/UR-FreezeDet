@@ -1,0 +1,6 @@
+variant: D2
+classification: hierarchical
+use_u: false
+use_pi: false
+use_consistency: false
+fusion: uniform

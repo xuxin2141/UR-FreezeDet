@@ -1,0 +1,9 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ur-freezedet"
+version = "1.0.0"
+description = "Algorithm-only UR-FreezeDet D1-D7 implementation"
+requires-python = ">=3.9"

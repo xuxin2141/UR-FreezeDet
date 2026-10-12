@@ -1,0 +1,10 @@
+epochs: 100
+batch_size: 2
+image_size: 640
+seed: 42
+workers: 0
+device: auto
+precision: fp32
+learning_rate: 0.001
+weight_decay: 0.0001
+loss_weights: {det: 1.0, phase: 1.0, substage: 1.0, u: 0.5, pi: 0.5, cons: 0.1}

@@ -1,0 +1,6 @@
+variant: D5
+classification: hierarchical
+use_u: true
+use_pi: true
+use_consistency: true
+fusion: uniform

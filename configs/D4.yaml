@@ -1,0 +1,6 @@
+variant: D4
+classification: hierarchical
+use_u: true
+use_pi: true
+use_consistency: false
+fusion: uniform

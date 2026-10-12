@@ -1,0 +1,6 @@
+variant: D7
+classification: hierarchical
+use_u: true
+use_pi: true
+use_consistency: true
+fusion: rcsf
